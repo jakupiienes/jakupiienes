@@ -46,14 +46,14 @@ me.sayHi();
 <a href="https://github.com/rollokd/splitease">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rollokd&repo=splitease&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
-<a href="https://github.com/ByteBlink/OnTrial">
+<a href="https://github.com/jakupiienes/OnTrial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byteblink&repo=onTrial&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-<a href="https://github.com/ByteBlink/Reciplease">
+<a href="https://github.com/jakupiienes/Reciplease">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byteblink&repo=reciplease&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
-<a href="https://github.com/ByteBlink/vscode-settings">
+<a href="https://github.com/jakupiienes/vscode-settings">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byteblink&repo=vscode-settings&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
