@@ -20,7 +20,7 @@ me.sayHi();
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=6aa6f8)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=React&logoColor=white&color=6aa6f8)
 ![Next JS](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
 ![Angular.js](https://img.shields.io/badge/Framework-Angular.js-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
 ![NodeJS](https://img.shields.io/badge/Runetime-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=6aa6f8)
@@ -38,7 +38,6 @@ me.sayHi();
 ![Postman](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=6aa6f8)
 ![cypress](https://img.shields.io/badge/Testing-cypress-informational?style=flat&logo=cypress&logoColor=white&color=6aa6f8)
 ![Jest](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=6aa6f8)
-![Git](https://img.shields.io/badge/Control-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)
 ![Git](https://img.shields.io/badge/Control-Git-informational?style=flat&logo=Git&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Highlight Projects
